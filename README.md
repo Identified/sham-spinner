@@ -12,10 +12,13 @@ By passing in $size and $color variables, spinners are easily customized and reu
 
 
 ###Installation
-You'll need sass
-Include the CSS in your project or using bower
+Naturally, you'll need SASS (http://sass-lang.com) to use these mixins.
+
+Install using Bower (http://bower.io)
 
     bower install simple-spinner
+
+OR simply include the main SCSS file early in your stylesheets directory.
 
 In your project, add markup and styles along these lines:
 
