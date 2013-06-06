@@ -1,1 +1,6 @@
 /.sass-cache/
+/.DS_Store
+/demo/.DS_Store
+*.scssc
+/demo/.sass-cache/eadbde9788bb1b96b203b4f90355413bfb2fde33/demo.scssc
+/demo/.sass-cache/1c31ccda08755fd2e2da8630b8e753c144b0da61/sham-spinner.scssc
