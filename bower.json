@@ -1,0 +1,10 @@
+{
+  "name": "sham-spinner",
+  "version": "0.0.1",
+  "main": "sham-spinner.scss",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}

@@ -1,0 +1,33 @@
+@import '../sham-spinner';
+
+// Helper classes for demonstration purposes
+
+.sham-spinner-circular {
+  @include sham-spinner-circular( red, 32px);
+  width               : 32px;
+  height              : 32px;
+}
+
+.sham-spinner-spokes {
+  @include sham-spinner-spokes( red, 99px);
+  width               : 99px;
+  height              : 99px;
+}
+
+.sham-spinner-peacock {
+  @include sham-spinner-peacock( purple, 55px);
+  width               : 55px;
+  height              : 55px;
+}
+
+.sham-spinner-dots {
+  @include sham-spinner-dots( purple, 55px);
+  width               : 55px;
+  height              : 55px;
+}
+
+.sham-spinner-pinwheel {
+  @include sham-spinner-pinwheel( purple, 55px);
+  width               : 55px;
+  height              : 55px;
+}
