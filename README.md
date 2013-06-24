@@ -9,5 +9,5 @@ This means no images! They look great at any size, on any screen. Pass in $color
 Feel free to add more with pull requests.
 
 ###Usage
-See http://identified.github.io/sham-spinner/ for all of the exciting details
+See http://identified.github.io/sham for all of the exciting details
 
