@@ -87,7 +87,7 @@
 
 // Animation
 @-moz-keyframes sham-spin {
-  0    { -moz-transform : rotate(0); }
+  0%    { -moz-transform : rotate(0); }
   100% { -moz-transform : rotate(360deg); }
 }
 
